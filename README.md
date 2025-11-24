@@ -61,7 +61,8 @@ Gradually increase the complexity by adding environmental details and actions.
 **Example Prompt:**
 
 ```
-A person in a red jacket walking along a sunny park path, with birds flying in the sky and a dog running beside them.
+A person in a red jacket walking along a sunny park path,
+with birds flying in the sky and a dog running beside them.
 ```
 
 **Output Video:**
@@ -80,7 +81,8 @@ Include elements such as transitions, time-lapse, or camera movement.
 **Example Prompt:**
 
 ```
-A time-lapse video of the sun setting over the ocean, with the camera slowly zooming out from the beach, capturing the waves and changing sky colors.
+A time-lapse video of the sun setting over the ocean, with the camera slowly
+zooming out from the beach, capturing the waves and changing sky colors.
 ```
 
 **Output Video:**
@@ -99,7 +101,8 @@ Experiment with different genres such as animated, cinematic, artistic, or futur
 **Example Prompt:**
 
 ```
-An animated scene of a futuristic city at night, with glowing neon lights, flying cars, and a bustling crowd.
+An animated scene of a futuristic city at night, with glowing neon lights,
+flying cars, and a bustling crowd.
 ```
 
 **Output Video:**
@@ -118,47 +121,33 @@ Review the output and refine your prompt for improved clarity or motion control.
 **Example Prompt (Refined):**
 
 ```
-A cinematic shot of a car speeding through a neon-lit city at night, reflections on the wet street, and a high-speed chase scene captured with dynamic camera angles.
+A cinematic shot of a car speeding through a neon-lit city at night,
+reflections on the wet street, and a high-speed chase scene captured with dynamic camera angles.
 ```
 
 **Output Video:**
-👉 *(Paste your video here)*
-`![Refined Prompt Video](paste-your-image-or-gif-link-here)`
+
+https://github.com/user-attachments/assets/f7a8eadc-3d8f-4dc9-82d4-5f4c2e9d2878
+
 
 ---
 
-### **7. Generate Multiple Versions**
+**Output Comparison: for the first two prompts**
+| Feature               | Simple Prompt Video                        | Detailed Prompt Video                                                                                                   |
+| --------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| **Prompt Used**       | “A person walking in a park.”              | “A person in a red jacket walking along a sunny park path, with birds flying in the sky and a dog running beside them.” |
+| **Scene Details**     | Very minimal environment, basic background | Rich environment with defined colors, objects, and motion                                                               |
+| **Character Details** | Generic person, no specific clothing       | Specific clothing (red jacket), clearer identity                                                                        |
+| **Motion**            | Only basic walking animation               | Multiple motions: walking, birds flying, dog running                                                                    |
+| **Lighting**          | Normal daylight, no special conditions     | Sunny, bright lighting with emphasized sky                                                                              |
+| **Camera Movement**   | Mostly static or slow                      | Slightly dynamic, more immersive                                                                                        |
+| **Realism**           | Low to medium                              | Medium to high based on added details                                                                                   |
+| **Video Variation**   | Limited variation                          | More variation due to additional elements                                                                               |
+| **Visual Complexity** | Simple                                     | Highly descriptive and complex                                                                                          |
 
-Create slightly varied prompts to compare how the model changes the video style or sequence.
-
-**Example Versions:**
-
-* Change lighting
-* Change character appearance
-* Change camera direction
-* Change motion speed
-
-**Output Comparison:**
-👉 *(Paste your videos / thumbnails here)*
-`![Version1](paste-link)`
-`![Version2](paste-link)`
-`![Version3](paste-link)`
 
 ---
 
-### **8. Save and Compare Outputs**
-
-Observe differences in:
-
-* Motion consistency
-* Video sharpness
-* Character continuity
-* Scene style
-* Prompt sensitivity
-
-👉 *(Paste your comparison screenshots or notes here)*
-
----
 
 ## **Result**
 
@@ -166,16 +155,4 @@ The prompting techniques for video generation were explored successfully, and va
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-# Result:
 
